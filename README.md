@@ -77,11 +77,6 @@ OR
 
 ---
 
-## 📸 Screenshots
-(Add screenshots here later)
-
----
-
 ## 👨‍💻 Author
 **Rohan Panchal**  
 - GitHub: https://github.com/Rohan271004  
